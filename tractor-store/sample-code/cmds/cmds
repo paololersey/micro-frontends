@@ -1,0 +1,3 @@
+npx mfserve --listen 3001 team-decide
+npx mfserve --listen 3002 team-inspire
+npx concurrently "mfserve --listen 3001 team-decide" "mfserve --listen 3002 team-inspire"
