@@ -6,3 +6,10 @@ html {...}
 
 h2 {...}
 .image {...}
+
+
+.recos iframe {
+  border: 0;
+  width: 100%;
+  height: 750px;
+}
