@@ -98,4 +98,4 @@ Visit [Nx Cloud](https://nx.app/) to learn more.
 
 https://blog.bitsrc.io/using-angular-elements-why-and-how-part-1-35f7fd4f0457
 https://www.techiediaries.com/angular/angular-9-elements-web-components/
-
+https://itnext.io/building-angular-micro-frontend-with-ngrx-state-sharing-and-nx-cli-7e9af10ebd03
