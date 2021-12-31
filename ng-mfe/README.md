@@ -1,6 +1,6 @@
+# NxMfe
 
-
-# NgMfe
+https://nx.dev/l/a/guides/setup-mfe-with-angular
 
 This project was generated using [Nx](https://nx.dev).
 
@@ -92,3 +92,10 @@ Nx Cloud pairs with Nx in order to enable you to build and test code more rapidl
 Teams using Nx gain the advantage of building full-stack applications with their preferred framework alongside Nx’s advanced code generation and project dependency graph, plus a unified experience for both frontend and backend developers.
 
 Visit [Nx Cloud](https://nx.app/) to learn more.
+
+
+## More utilities
+
+https://blog.bitsrc.io/using-angular-elements-why-and-how-part-1-35f7fd4f0457
+https://www.techiediaries.com/angular/angular-9-elements-web-components/
+
